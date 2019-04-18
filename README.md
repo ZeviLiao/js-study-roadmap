@@ -4,3 +4,4 @@
 * Firebase
 * Rxjs
 * Drone
+* TypeScript
